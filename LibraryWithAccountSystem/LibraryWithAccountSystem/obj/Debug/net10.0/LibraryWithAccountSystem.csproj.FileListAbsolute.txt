@@ -1,0 +1,14 @@
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\bin\Debug\net10.0\LibraryWithAccountSystem.exe
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\bin\Debug\net10.0\LibraryWithAccountSystem.deps.json
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\bin\Debug\net10.0\LibraryWithAccountSystem.runtimeconfig.json
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\bin\Debug\net10.0\LibraryWithAccountSystem.dll
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\bin\Debug\net10.0\LibraryWithAccountSystem.pdb
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.AssemblyInfoInputs.cache
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.AssemblyInfo.cs
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.dll
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\refint\LibraryWithAccountSystem.dll
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.pdb
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\LibraryWithAccountSystem.genruntimeconfig.cache
+C:\Users\freaa\source\repos\LibraryWithAccountSystem\LibraryWithAccountSystem\obj\Debug\net10.0\ref\LibraryWithAccountSystem.dll
